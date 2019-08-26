@@ -6,9 +6,9 @@
 
 OpenCV于1999年由Gary Bradsky在英特尔创立，第一个版本于2000年问世.Vadim Pisarevsky加入了Gary Bradsky，负责管理英特尔的俄罗斯软件OpenCV团队。 2005年，OpenCV被用于Stanley，这是赢得2005年DARPA大挑战赛的车型。 后来，它的积极发展继续在Willow Garage的支持下，Gary Bradsky和Vadim Pisarevsky领导该项目。 OpenCV现在支持与计算机视觉和机器学习相关的众多算法，并且正在日益扩展。
 
-OpenCV支持各种编程语言，如C ++，Python，Java等，可在不同的平台上使用，包括Windows，Linux，OS X，Android和iOS。 基于CUDA和OpenCL的高速GPU操作接口也在积极开发中。
+OpenCV支持各种编程语言，如C++，Python，Java等，可在不同的平台上使用，包括Windows，Linux，OS X，Android和iOS。 基于CUDA和OpenCL的高速GPU操作接口也在积极开发中。
 
-OpenCV-Python是OpenCV的Python API，结合了OpenCV C ++ API和Python语言的最佳特性。
+OpenCV-Python是OpenCV的Python API，结合了OpenCV C++ API和Python语言的最佳特性。
 
 ## OpenCV-Python ##
 

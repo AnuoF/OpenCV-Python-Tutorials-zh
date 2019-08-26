@@ -6,6 +6,14 @@
 
 下面的步骤在Windows 7-64位计算机上使用Visual Studio 2010和Visual Studio 2012进行测试。屏幕截图显示了VS2012。
 
+## pip指令安装 ##
+
+可直接用pip命令安装：
+
+**pip install opencv-python**
+
+然后自动安装完成。
+
 ## 从二进制文件安装OpenCV ##
 
 - 下面的Python包将被下载并安装到其默认位置。

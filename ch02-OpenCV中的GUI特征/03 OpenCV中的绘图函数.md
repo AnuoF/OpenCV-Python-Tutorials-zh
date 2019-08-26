@@ -27,6 +27,10 @@
 	# Draw a diagonal blue line with thickness of 5 px
 	cv.line(img,(0,0),(511,511),(255,0,0),5)
 
+	# 显示图像
+	cv.imshow('image',img)
+	cv.waitKey(0)
+
 ## 绘制矩形 ##
 
 要绘制矩形，您需要矩形的左上角和右下角。 这次我们将在图像的右上角绘制一个绿色矩形。
